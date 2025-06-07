@@ -15,3 +15,20 @@ A developer focused on the Roblox platform, currently adapting and scaling large
 * **Platform:** Roblox Studio
 * **Main Language:** Lua (Luau)
 * **Code Editor:** Visual Studio Code
+
+### Tecnology and Tools
+
+<p align="left">
+  <img align="center" alt="Lua" title="Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  <img align="center" alt="Roblox-Studio" title="Roblox Studio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/roblox/roblox-original.svg">
+</p>
+<br>
+
+### My profile
+
+<p align="left">
+  <a href="https://twitter.com/pggondim" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+</p>
+<p align="left">
+  <a href="https://www.roblox.com/users/561445931/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"></a>
+</p>

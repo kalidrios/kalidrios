@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Gondim
 
-<!--
-**kalidrios/kalidrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer focused on the Roblox platform, currently adapting and scaling large-scale projects. My work involves a hybrid development workflow, combining reverse engineering with the strategic use of tools to accelerate prototyping and problem-solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I'm working on
+
+* **Main Project:** Recreating and customizing a game experience on Roblox
+    * **Current focus:** Refactoring the original source code, analyzing its architecture, performing complex debugging, and optimizing both server and client-side logic
+    * **Language:** Lua (Luau)
+
+###  Tools and Technologies
+
+* **Platform:** Roblox Studio
+* **Main Language:** Lua (Luau)
+* **Code Editor:** Visual Studio Code

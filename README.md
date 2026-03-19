@@ -15,7 +15,6 @@ A developer focused on data, networking, and backend systems. Currently adapting
 * **Backend & Web:** Node.js, Express, REST APIs
 * **Platform:** Roblox Studio, Web Ecosystem
 * **Main Languages:** Lua (Luau), JavaScript
-* **Code Editor & Version Control:** Visual Studio Code, Git
 
 ### Technology and Tools
 

@@ -1,24 +1,27 @@
 # Hello, I'm Gondim
 
-A developer focused on the Roblox platform, currently adapting and scaling large-scale projects. My work involves a hybrid development workflow, combining reverse engineering with the strategic use of tools to accelerate prototyping and problem-solving
+A developer focused on data, networking, and backend systems. Currently adapting and scaling large-scale projects, my work involves a hybrid development workflow that bridges game engines with custom web APIs and external infrastructures to solve complex architectural problems.
 
 ---
 
-###  What I'm working on
+### What I'm working on
 
-* **Main Project:** Recreating and customizing a game experience on Roblox
-    * **Current focus:** Refactoring the original source code, analyzing its architecture, performing complex debugging, and optimizing both server and client-side logic
-    * **Language:** Lua (Luau)
+* **Main Project:** Engineering scalable backend solutions and network abstraction layers for high-traffic environments
+    * **Current focus:** Building custom Node.js REST proxies, handling concurrent API data fetching, and optimizing client-server bandwidth limits
+    * **Languages:** JavaScript (Node.js), Lua (Luau)
 
-###  Tools and Technologies
+### Tools and Technologies
 
-* **Platform:** Roblox Studio
-* **Main Language:** Lua (Luau)
-* **Code Editor:** Visual Studio Code
+* **Backend & Web:** Node.js, Express, REST APIs
+* **Platform:** Roblox Studio, Web Ecosystem
+* **Main Languages:** Lua (Luau), JavaScript
+* **Code Editor & Version Control:** Visual Studio Code, Git
 
-### Tecnology and Tools
+### Technology and Tools
 
 <p align="left">
+  <img align="center" alt="JavaScript" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Node.js" title="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lua" title="Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Roblox-Studio" title="Roblox Studio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/roblox/roblox-original.svg">
 </p>
